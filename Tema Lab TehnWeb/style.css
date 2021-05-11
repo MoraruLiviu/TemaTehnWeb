@@ -316,3 +316,45 @@ hr {
 .team-member-job {
     color: rgb(95, 187, 218);
 }
+
+h3 {
+    margin-left: 10px;
+}
+
+input {
+    border-color: black;
+    padding: 5px;
+    border-radius: 25px;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 0 5px #999;
+}
+
+img {
+    border-radius: 25px;
+}
+
+button {
+    display: inline-block;
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+}
+
+button:hover {
+    background-color: rgb(82, 122, 197);
+}
+
+button:active {
+    background-color: rgb(82, 122, 197);
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+}

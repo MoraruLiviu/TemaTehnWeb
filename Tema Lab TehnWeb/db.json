@@ -1,0 +1,53 @@
+{
+  "games": [
+    {
+      "name": "Nier Automata",
+      "img": "https://i.imgur.com/bQx9tVD.jpeg",
+      "developer": "PlatinumGames",
+      "publisher": "Square Enix",
+      "id": 1
+    },
+    {
+      "name": "Borderlands 3.1",
+      "img": "https://i.imgur.com/IIjAZGp.jpg",
+      "developer": "GearBox Software",
+      "publisher": "2K Games",
+      "id": 2
+    },
+    {
+      "name": "Need for Speed™ Heat",
+      "img": "https://i.imgur.com/zhgqAjT.jpeg",
+      "developer": "EA Gothenburg",
+      "publisher": "Electronic Arts",
+      "id": 3
+    },
+    {
+      "name": "Ace Attorney Miles Edgeworth Investigations",
+      "img": "https://i.imgur.com/fYJT8q2.jpeg",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "id": 4
+    },
+    {
+      "name": "Skyrim",
+      "img": "https://i.imgur.com/crKCy7u.jpeg",
+      "developer": "Bethesda Development Studio",
+      "publisher": "Bethesda Softworks",
+      "id": 5
+    },
+    {
+      "name": "The Witcher 3",
+      "img": "https://i.imgur.com/dcOAWTK.jpg",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt Red",
+      "id": 6
+    },
+    {
+      "name": "Superhot",
+      "img": "https://i.imgur.com/1s6UDdt.jpeg",
+      "developer": "Superhot Team",
+      "publisher": "Superhot Team",
+      "id": 7
+    }
+  ]
+}
