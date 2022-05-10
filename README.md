@@ -15,3 +15,5 @@ It also contains implementations for the GET, POST, PUT and DETELE methods that 
 ![alt text](https://i.imgur.com/2ZSS0YS.png)
 
 ![alt text](https://i.imgur.com/vnR4L0i.png)
+
+![text](https://i.imgur.com/ebXdSSb.png)
