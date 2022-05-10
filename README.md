@@ -2,11 +2,11 @@
 
 Assignment for the Web development course of the University of Bucharest.
 
-Its purpose was to familiarize ourselves with multiple technologies used in the development of the front-end and back-end of a website.
+Its purpose was to familiarize ourselves with multiple technologies used in the frontend and backend development of a website.
 
-The project uses node.js to be hosted on the local machine and for persistance keeps its data in a json file.
+The project uses HTML and CSS for its frontend and node.js for its backend. A JSON-server is used to host on the local machine and for persistance the data is kept in a JSON file.
 
-It also contains implementations for the GET, POST, PUT and DETELE methods that allow us to modify the data from the json file.
+It also contains implementations for the GET, POST, PUT and DELETE methods that allow us to modify the data insidde the JSON file.
 
 ![alt text](https://i.imgur.com/JOlt4Jx.jpeg)
 
